@@ -1,6 +1,6 @@
 # Countlories
 
-<p align="center"> <img src="https://raw.githubusercontent.com/IpunkDkk/Countlories/main/image.png" width="200" height="200" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/IpunkDkk/Countlories/main/image.jpg" width="200" height="200" /> </p>
 
 
 # About
