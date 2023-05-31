@@ -13,19 +13,19 @@ Countlories is built as a requirement for Bangkit 2023's Product-based Capstone 
 
 |            Member           				| Student ID |        Path        |                                                       Contacts                                                      |
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|         Irma Binti Syai’dah        | M131DSY4833  |  Machine Learning  |        [LinkedIn](https://www.linkedin.com/in/reza-azhar-2873a5131/), [GitHub](https://github.com/Azer2401)           |
+|         Irma Binti Syai’dah        | M131DSY4833  |  Machine Learning  |        [LinkedIn](), [GitHub]()           |
 |      			William Zefanya Maranatha     	        | M038DSX0587  |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/william-zefanya-030b131a1/), [GitHub](https://github.com/ALMAGEST12)|
-|     Maisan Auliya      | A038DSX1241  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/lonardsteven), [GitHub](https://www.github.com/lonard2)            |
+|     Maisan Auliya      | A038DSX1241  | Mobile Development |     [LinkedIn](), [GitHub](https://github.com/MaeAuliya)            |
 |      Trio Agung Purwanto     | A188DKX4261  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/trio-agung-purwanto-42003721b/), [GitHub](https://github.com/ipunkdkk)|
-|     Gabriel Solomon Sitanggang     | C038DSX0922  |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/tomi-timutius-31b1ba137/), [GitHub](https://github.com/kurak57)|
+|     Gabriel Solomon Sitanggang     | C038DSX0922  |   Cloud Computing  |              [LinkedIn](), [GitHub]()|
 | Cahya Gumilang  | C309DSX2194  |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/cahya-gumilang), [GitHub](https://github.com/CahyaG)|
 
 # Repositories
 
 | Paths | Link |
 | :---: | :---: |
-| Mobile Development | [Github](https://github.com/lonard2/CAMerlang-Mobile-Development) |
-|  Machine Learning  |  [Github](https://github.com/fadlifad17/CAMerlang-ML-Model.git)  |
+| Mobile Development | [Github](https://github.com/MaeAuliya/CountLories.git) |
+|  Machine Learning  |  [Github](https://github.com/Gabrielstg02/Countlories-CC)  |
 |   Cloud Computing  |   [Github](https://github.com/aldybw/CAMerlang-sql-rest-api)  |
 
 # License
