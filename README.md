@@ -15,7 +15,7 @@ Countlories is built as a requirement for Bangkit 2023's Product-based Capstone 
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |         Irma Binti Syai’dah        | M131DSY4833  |  Machine Learning  |        [LinkedIn](), [GitHub]()           |
 |      			William Zefanya Maranatha     	        | M038DSX0587  |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/william-zefanya-030b131a1/), [GitHub](https://github.com/ALMAGEST12)|
-|     Maisan Auliya      | A038DSX1241  | Mobile Development |     [LinkedIn](), [GitHub](https://github.com/MaeAuliya)            |
+|     Maisan Auliya      | A038DSX1241  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/maisan-auliya-753454221/), [GitHub](https://github.com/MaeAuliya)            |
 |      Trio Agung Purwanto     | A188DKX4261  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/trio-agung-purwanto-42003721b/), [GitHub](https://github.com/ipunkdkk)|
 |     Gabriel Solomon Sitanggang     | C038DSX0922  |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/gabriel-solomon-sitanggang/), [GitHub](https://github.com/Gabrielstg02/)|
 | Cahya Gumilang  | C309DSX2194  |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/cahya-gumilang), [GitHub](https://github.com/CahyaG)|
