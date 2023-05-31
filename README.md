@@ -14,11 +14,11 @@ Countlories is built as a requirement for Bangkit 2023's Product-based Capstone 
 |            Member           				| Student ID |        Path        |                                                       Contacts                                                      |
 | :---------------------------------------: | :--------: | :----------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |         Irma Binti Syai’dah        | M131DSY4833  |  Machine Learning  |        [LinkedIn](https://www.linkedin.com/in/reza-azhar-2873a5131/), [GitHub](https://github.com/Azer2401)           |
-|      			William Zefanya Maranatha     	        | M038DSX0587  |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/fadlifadillah17/), [GitHub](https://github.com/fadlifad17)|
+|      			William Zefanya Maranatha     	        | M038DSX0587  |  Machine Learning  |      [LinkedIn](https://www.linkedin.com/in/william-zefanya-030b131a1/), [GitHub](https://github.com/ALMAGEST12)|
 |     Maisan Auliya      | A038DSX1241  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/lonardsteven), [GitHub](https://www.github.com/lonard2)            |
-|      Trio Agung Purwanto     | A188DKX4261  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/arya-fikryhuda-nurpatria-842247225/), [GitHub](https://github.com/arya-fh-n)|
+|      Trio Agung Purwanto     | A188DKX4261  | Mobile Development |     [LinkedIn](https://www.linkedin.com/in/trio-agung-purwanto-42003721b/), [GitHub](https://github.com/ipunkdkk)|
 |     Gabriel Solomon Sitanggang     | C038DSX0922  |   Cloud Computing  |              [LinkedIn](https://www.linkedin.com/in/tomi-timutius-31b1ba137/), [GitHub](https://github.com/kurak57)|
-| Cahya Gumilang  | C309DSX2194  |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/aldycky-bagus-witjaksana-4969441b0/), [GitHub](https://github.com/aldybw)|
+| Cahya Gumilang  | C309DSX2194  |   Cloud Computing  |     [LinkedIn](https://www.linkedin.com/in/cahya-gumilang), [GitHub](https://github.com/CahyaG)|
 
 # Repositories
 
