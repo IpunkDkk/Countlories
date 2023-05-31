@@ -25,7 +25,7 @@ Countlories is built as a requirement for Bangkit 2023's Product-based Capstone 
 | Paths | Link |
 | :---: | :---: |
 | Mobile Development | [Github](https://github.com/MaeAuliya/CountLories.git) |
-|  Machine Learning  |  [Github]()  |
+|  Machine Learning  |  [Github](https://github.com/ALMAGEST12/Countlories)  |
 |   Cloud Computing  |   [Github](https://github.com/Gabrielstg02/Countlories-CC)  |
 
 # License
